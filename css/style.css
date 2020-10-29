@@ -1,0 +1,9 @@
+/* Global */
+body {
+    margin: 32px 64px;
+}
+
+/* Header */
+header h3 {
+    font-style: italic;
+}
