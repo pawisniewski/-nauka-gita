@@ -7,3 +7,9 @@ body {
 header h3 {
     font-style: italic;
 }
+
+/* Lyrics */
+.lyrics {
+    font-style: italic;
+    text-align: justify;
+}
