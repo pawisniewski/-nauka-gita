@@ -11,5 +11,5 @@ header h3 {
 /* Lyrics */
 .lyrics {
     font-style: italic;
-    text-align: justify;
+    text-align: left;
 }
