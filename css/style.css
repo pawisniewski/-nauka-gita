@@ -1,6 +1,7 @@
 /* Global */
-body {
+.container {
     margin: 32px 64px;
+    
 }
 
 /* Header */
