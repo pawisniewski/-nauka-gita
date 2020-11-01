@@ -1,6 +1,8 @@
 /* Global */
 .container {
     margin: 32px 64px;
+    display: -ms-flexbox;
+    display: flex;
 }
 
 /* Header */
